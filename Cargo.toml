@@ -1,0 +1,8 @@
+[package]
+name = "grand-pattern-core"
+version = "0.1.0"
+edition = "2021"
+description = "The unified Grand Pattern core — mono vibe, pluggable JEPA, venue-as-agent, topology generators"
+license = "MIT"
+
+[dependencies]
